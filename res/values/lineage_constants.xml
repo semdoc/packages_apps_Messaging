@@ -29,4 +29,7 @@
     <!-- Contact Colors -->
     <bool name="contact_colors_pref_default" translatable="false">true</bool>
     <string name="contact_colors_pref_key" translatable="false">contact_colors</string>
+
+    <!-- Notification Reply -->
+    <bool name="notification_reply_pref_default">true</bool>
 </resources>
